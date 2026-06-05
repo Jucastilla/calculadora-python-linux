@@ -1,4 +1,5 @@
-# projeto-calculadora
+# Calculadora em Python e Linux
+
 Este projeto consiste em uma calculadora funcional desenvolvida em Python e em Shell, criada no Colab e no ambiente Linux (WSL/Ubuntu) utilizando o editor Nano.
 ## 1. O Código Python (`calculadora.py`)
 O script Python foi desenvolvido para realizar operações matemáticas básicas.
