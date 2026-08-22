@@ -1,6 +1,4 @@
-# Projeto de Programação | Python e Linux
-
-## Calculadora em Python e Shell Script
+# Calculadora em Python e Linux
 
 ## Sobre o Projeto
 
