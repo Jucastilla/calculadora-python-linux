@@ -168,16 +168,14 @@ O projeto também envolveu conceitos relacionados à execução de scripts e ger
 
 ## Arquivos do Projeto
 
-Os arquivos desenvolvidos no projeto correspondem às duas implementações da calculadora.
+Os scripts desenvolvidos no projeto estão organizados na pasta `scripts`.
 
-### Python
+### Scripts
 
-🐍 [Calculadora em Python](https://github.com/Jucastilla/calculadora-python-linux/blob/main/calculadora.py)
+🐍 [Calculadora em Python](https://github.com/Jucastilla/calculadora-python-linux/blob/main/scripts/calculadora.py)
 
-Implementação da calculadora em Python, contendo as operações matemáticas, controle de repetição e tratamento de entradas inválidas e divisão por zero.
+Script em Python responsável pela calculadora, permitindo realizar operações de soma, subtração, multiplicação e divisão, com tratamento de entradas inválidas e divisão por zero.
 
-### Shell Script
+🐚 [Calculadora em Shell Script](https://github.com/Jucastilla/calculadora-python-linux/blob/main/scripts/calculadora.sh)
 
-🐧 [Calculadora em Shell Script](https://github.com/Jucastilla/calculadora-python-linux/blob/main/calculadora.sh)
-
-Implementação da calculadora em Shell Script, utilizando comandos Bash para entrada de dados, estruturas condicionais, repetição e execução das operações matemáticas.
+Script em Shell que implementa a calculadora para execução em ambiente Linux, permitindo realizar as quatro operações matemáticas básicas diretamente pelo terminal.
