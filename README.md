@@ -170,10 +170,10 @@ Os scripts desenvolvidos no projeto estão organizados na pasta `scripts`.
 
 ### Scripts
 
-🐍 [Calculadora em Python](https://github.com/Jucastilla/calculadora-python-linux/blob/main/scripts/calculadora.py)
+ [Calculadora em Python](https://github.com/Jucastilla/calculadora-python-linux/blob/main/scripts/calculadora.py)
 
 Script em Python responsável pela calculadora, permitindo realizar operações de soma, subtração, multiplicação e divisão, com tratamento de entradas inválidas e divisão por zero.
 
-🐚 [Calculadora em Shell Script](https://github.com/Jucastilla/calculadora-python-linux/blob/main/scripts/calculadora.sh)
+ [Calculadora em Shell Script](https://github.com/Jucastilla/calculadora-python-linux/blob/main/scripts/calculadora.sh)
 
 Script em Shell que implementa a calculadora para execução em ambiente Linux, permitindo realizar as quatro operações matemáticas básicas diretamente pelo terminal.
